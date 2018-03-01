@@ -1,0 +1,146 @@
+body {
+	background-color: #f2f2f2;
+}
+
+div {
+	color: #181818;
+	font-family: Tahoma;
+	margin-bottom: 30px;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 30px;
+}
+
+#header{
+	color: #181818;
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 25px;
+}
+
+#currentPosition{
+	text-align: center;
+}
+
+a:link{
+	color: #181818;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #181818;
+    text-decoration: none;
+}
+
+a:hover {
+	color: #000066;
+    font-weight: bold;
+	text-decoration: none;
+}
+
+a:active {
+	color: #000066;
+    font-weight: bold;
+	text-decoration: none;
+}
+
+.sectionHeader{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.jobTitle{
+	font-size: 18px;
+}
+
+.school{
+	font-size: 18px;
+}
+
+.athletics{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.interests{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.jobDesc{
+	font-size: 16px;
+}
+
+.degree{
+	font-size: 16px;
+}
+
+.article{
+	font-size: 16px;
+}
+
+.skils{
+	font-size: 16px;
+}
+
+.athelticInfo{
+	font-size: 16px;
+}
+
+.interestsInfo{
+	font-size: 16px;
+}
+
+#experience{
+	border: 3px inset #14141f;
+	padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+	background-color: #f8f8ff;
+}
+
+#intern{
+	border: 3px inset #14141f;
+	padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+	background-color: #f8f8ff;
+}
+
+#education{
+	border: 3px inset #14141f;
+	padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+	background-color: #f8f8ff;
+}
+
+#publications{
+	border: 3px inset #14141f;
+	padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+	background-color: #f8f8ff;
+}
+
+#skills{
+	border: 3px inset #14141f;
+	padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+	background-color: #f8f8ff;
+}
+
+#additional{
+	border: 3px inset #14141f;
+	padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+	background-color: #f8f8ff;
+}
